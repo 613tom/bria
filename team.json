@@ -54,7 +54,7 @@
       "name": "Dr. Bev Young",
       "credentials": "Psychiatrist, MD, FRCPC",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c610cad4a9200f8322378_BRIA_Image_Team_Dr.%20Bev%20Young.png",
-      "tags": ["fertility"],
+      "tags": ["fertility","level-1", "level-2"],
       "links": {
         "linkedin": "https://www.linkedin.com/in/bev-young-md/",
         "email": "bev@betterbria.com"
@@ -84,7 +84,7 @@
       "name": "Nicole Schroeder",
       "credentials": "Therapist, BSW, MSW, RSW",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a302e369f19f51c2612cfad_BRIA_Image_Team_Nicole%20Schroeder.png",
-      "tags": ["level-2"],
+      "tags": ["level-1"],
       "links": {
         "linkedin": "https://www.linkedin.com/in/nicole-schroeder-97294812a/",
         "email": "nicole@betterbria.com"
@@ -99,7 +99,7 @@
       "name": "Lauren Rose",
       "credentials": "Registered Dietitian",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a303163131737008864db85_BRIA_Image_Team_Lauren%20Rose.png",
-      "tags": ["level-2"],
+      "tags": ["level-1", "level-2"],
       "links": {
         "linkedin": "https://www.linkedin.com/in/lauren-rose-93495a11/",
         "email": "lauren@betterbria.com"
@@ -173,7 +173,7 @@
       "name": "Dr. Leslie Buckley",
       "credentials": "TODO — e.g. Psychiatrist, MD, FRCPC, MPH",
       "image": "",
-      "tags": ["level-2"],
+      "tags": ["level-1", "level-2"],
       "links": {},
       "bioStatus": "final",
       "bio": [
