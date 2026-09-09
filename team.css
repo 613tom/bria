@@ -1,0 +1,239 @@
+/* ==========================================================================
+   BRIA Academy — team grid
+   Edit tokens below to match the LearnWorlds theme.
+   ========================================================================== */
+
+/* --- FONTS -----------------------------------------------------------------
+   Because this page runs inside an iframe it does NOT inherit LearnWorlds
+   fonts. Replace this block with the same @font-face rules or Google Fonts
+   import your LearnWorlds theme uses, then update --font-display / --font-body.
+   -------------------------------------------------------------------------- */
+/* @import url("https://fonts.googleapis.com/css2?family=..."); */
+
+:root {
+  /* Type */
+  --font-display: Georgia, "Times New Roman", serif;   /* headings + names */
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+  /* Colour — approximated from betterbria.com, please confirm exact hex */
+  --wine: #63243b;
+  --wine-soft: #8d5468;
+  --yellow: #f0c24b;
+  --cream: #fbf6f1;
+  --card: #ffffff;
+  --ink: #2b2226;
+  --ink-muted: #6d6167;
+  --rule: #e6dbd4;
+
+  /* Layout */
+  --gap: 24px;
+  --radius: 14px;
+  --card-min: 240px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: transparent;       /* lets the LearnWorlds section colour show */
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 8px 20px 40px;
+}
+
+/* --- Header --------------------------------------------------------------- */
+
+.head { margin: 0 0 28px; max-width: 62ch; }
+
+.head h1 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(1.75rem, 1.2rem + 1.8vw, 2.6rem);
+  line-height: 1.15;
+  color: var(--wine);
+  margin: 0 0 10px;
+}
+
+.head p {
+  margin: 0;
+  color: var(--ink-muted);
+  font-size: 1.0625rem;
+}
+
+/* --- Filters (only shown when no ?tags= is set) --------------------------- */
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 26px;
+}
+
+.filter {
+  font: inherit;
+  font-size: 0.9375rem;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-muted);
+  border-radius: 999px;
+  padding: 7px 16px;
+  cursor: pointer;
+}
+
+.filter[aria-pressed="true"] {
+  background: var(--wine);
+  border-color: var(--wine);
+  color: #fff;
+}
+
+.filter:focus-visible,
+.card:focus-visible { outline: 3px solid var(--yellow); outline-offset: 3px; }
+
+/* --- Grid ----------------------------------------------------------------- */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--card-min), 1fr));
+  gap: var(--gap);
+  align-items: start;
+}
+
+/* Card is a button so it is keyboard operable */
+.card {
+  font: inherit;
+  text-align: left;
+  border: 1px solid var(--rule);
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 0 0 16px;
+  cursor: pointer;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.card.is-open { border-color: var(--wine); }
+
+.card .shot {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  background: var(--cream);
+  object-fit: cover;
+  display: block;
+}
+
+.card .shot--empty {
+  display: grid;
+  place-items: center;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  color: var(--wine-soft);
+}
+
+.card .meta { padding: 14px 16px 0; }
+
+.card .name {
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  color: var(--wine);
+  margin: 0 0 3px;
+}
+
+.card .creds {
+  font-size: 0.8125rem;
+  color: var(--ink-muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+.card .more {
+  margin: 12px 16px 0;
+  font-size: 0.875rem;
+  color: var(--wine);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card .chev { transition: transform 0.2s ease; }
+.card.is-open .chev { transform: rotate(180deg); }
+
+/* --- Expanded bio panel: full-width row directly under the card ---------- */
+
+.panel {
+  grid-column: 1 / -1;
+  background: var(--cream);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 26px 28px;
+  display: none;
+}
+
+.panel.is-open { display: block; }
+
+.panel h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: var(--wine);
+  margin: 0 0 2px;
+}
+
+.panel .creds {
+  font-size: 0.9375rem;
+  color: var(--ink-muted);
+  margin: 0 0 16px;
+}
+
+.panel .bio { max-width: 74ch; }
+.panel .bio p { margin: 0 0 14px; }
+.panel .bio p:last-child { margin-bottom: 0; }
+
+.panel .links {
+  display: flex;
+  gap: 18px;
+  margin-top: 20px;
+  font-size: 0.9375rem;
+}
+
+.panel .links a { color: var(--wine); text-decoration: underline; }
+
+.panel .close {
+  font: inherit;
+  font-size: 0.875rem;
+  margin-top: 22px;
+  background: none;
+  border: 0;
+  color: var(--ink-muted);
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+}
+
+/* --- States --------------------------------------------------------------- */
+
+.notice {
+  border: 1px dashed var(--rule);
+  border-radius: var(--radius);
+  padding: 20px;
+  color: var(--ink-muted);
+}
+
+@media (max-width: 480px) {
+  :root { --card-min: 100%; --gap: 16px; }
+  .panel { padding: 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
