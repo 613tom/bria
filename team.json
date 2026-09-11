@@ -17,6 +17,51 @@
   ],
   "people": [
     {
+      "id": "ariel-dalfen",
+      "name": "Dr. Ariel Dalfen",
+      "credentials": "Psychiatrist, MD, FRCPC",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/74d75ffe1b4005db49fb5ad9a5a50a81.png",
+      "tags": [
+        "level-1",
+        "level-2",
+        "psych-meds-101",
+        "ba",
+        "bria-staff"
+      ],
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/"
+      },
+      "bioStatus": "final",
+      "bio": [
+        "Dr. Ariel Dalfen is CEO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience treating women across all reproductive life stages, from fertility through the perinatal period to perimenopause.",
+        "She co-founded BRIA after leading Ontario's largest hospital-based perinatal mental health program for 12 years and establishing Canada's first Perinatal Mental Health Telemedicine Program in 2014.",
+        "Dr. Dalfen is the author of 'When Baby Brings the Blues', serves on the Board of Directors of Fertility Matters Canada, and is an active educator and speaker on women's mental health."
+      ]
+    },
+    {
+      "id": "bev-young",
+      "name": "Dr. Bev Young",
+      "credentials": "Psychiatrist, MD, FRCPC",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/5f0808548f16e8f1795c475a20161101.jpg",
+      "tags": [
+        "fertility",
+        "level-1",
+        "level-2",
+        "psych-meds-101",
+        "ba",
+        "bria-staff"
+      ],
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/bev-young-md/"
+      },
+      "bioStatus": "final",
+      "bio": [
+        "Dr. Bev Young is CMO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health care along with subspecialty training in adolescent psychiatry.",
+        "Before co-founding BRIA, she developed and led two of Ontario's largest perinatal psychiatry programs at Women's College Hospital and Mount Sinai Hospital.",
+        "A pioneer in virtual care since 2014, Dr. Young specializes in perimenopause and menopause mental health and serves on the Ontario Menopause Quality Standard Advisory Committee."
+      ]
+    },
+    {
       "id": "eileen-mcmahon",
       "name": "Eileen McMahon",
       "credentials": "NP, RN(EC), MN",
@@ -64,51 +109,6 @@
         "Dr. Rebecca Greenberg is a nurse and bioethicist with two decades of experience in healthcare. She has spent most of her career working in academic hospitals including The Hospital for Sick Children and Sinai Health, and is an Adjunct Professor at the University of Toronto.",
         "She is committed to helping individuals and organizations navigate ethically difficult decisions. She developed and directed the Fellowship in Neonatal-Perinatal Ethics with the Toronto Centre for Neonatal Health and the University of Toronto — the first of its kind in Canada.",
         "Dr. Greenberg is committed to education and sharing her research through speaking internationally, publishing research papers, editing books, and being featured in the media."
-      ]
-    },
-    {
-      "id": "ariel-dalfen",
-      "name": "Dr. Ariel Dalfen",
-      "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/74d75ffe1b4005db49fb5ad9a5a50a81.png",
-      "tags": [
-        "level-1",
-        "level-2",
-        "psych-meds-101",
-        "ba",
-        "bria-staff"
-      ],
-      "links": {
-        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/"
-      },
-      "bioStatus": "final",
-      "bio": [
-        "Dr. Ariel Dalfen is CEO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience treating women across all reproductive life stages, from fertility through the perinatal period to perimenopause.",
-        "She co-founded BRIA after leading Ontario's largest hospital-based perinatal mental health program for 12 years and establishing Canada's first Perinatal Mental Health Telemedicine Program in 2014.",
-        "Dr. Dalfen is the author of 'When Baby Brings the Blues', serves on the Board of Directors of Fertility Matters Canada, and is an active educator and speaker on women's mental health."
-      ]
-    },
-    {
-      "id": "bev-young",
-      "name": "Dr. Bev Young",
-      "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/5f0808548f16e8f1795c475a20161101.jpg",
-      "tags": [
-        "fertility",
-        "level-1",
-        "level-2",
-        "psych-meds-101",
-        "ba",
-        "bria-staff"
-      ],
-      "links": {
-        "linkedin": "https://www.linkedin.com/in/bev-young-md/"
-      },
-      "bioStatus": "final",
-      "bio": [
-        "Dr. Bev Young is CMO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health care along with subspecialty training in adolescent psychiatry.",
-        "Before co-founding BRIA, she developed and led two of Ontario's largest perinatal psychiatry programs at Women's College Hospital and Mount Sinai Hospital.",
-        "A pioneer in virtual care since 2014, Dr. Young specializes in perimenopause and menopause mental health and serves on the Ontario Menopause Quality Standard Advisory Committee."
       ]
     },
     {
@@ -273,6 +273,6 @@
         "She also holds a Masters in Public Health from the Harvard T.H. Chan School of Public Health. Areas of interest include understanding pathways to substance use disorders as well as gender differences and the implementation of more accessible and earlier interventions in substance use health.",
         "Dr. Buckley is an Assistant Professor at the University of Toronto, with longstanding involvement in addiction education for medical students and residents."
       ]
-    },
+    }
   ]
 }
