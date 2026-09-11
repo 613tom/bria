@@ -274,37 +274,5 @@
         "Dr. Buckley is an Assistant Professor at the University of Toronto, with longstanding involvement in addiction education for medical students and residents."
       ]
     },
-    {
-      "id": "lauren-uslinov",
-      "name": "Dr. Lauren Uslinov",
-      "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "",
-      "tags": [
-        "bria-staff"
-      ],
-      "links": {},
-      "bioStatus": "final",
-      "bio": [
-        "Dr. Lauren Uslinov is a psychiatrist with extensive experience treating women across the reproductive lifespan in hospital and private clinic settings.",
-        "A fellow of the Royal College of Physicians and Surgeons of Canada and diplomate of the American Board of Psychiatry and Neurology, she has practiced in Minnesota, New York, and Ontario.",
-        "She provides comprehensive psychiatric care with focus on DBT, CBT, and psychodynamic approaches."
-      ]
-    },
-    {
-      "id": "tara-macleod",
-      "name": "Tara MacLeod",
-      "credentials": "MSN, NP-PHC, RN (EC)",
-      "image": "",
-      "tags": [
-        "bria-staff"
-      ],
-      "links": {},
-      "bioStatus": "final",
-      "bio": [
-        "Tara MacLeod is a Primary Care and Mental Health Nurse Practitioner with over 15 years of healthcare experience.",
-        "She delivers evidence-based care focusing on ADHD assessment and management, women's health, menopause support, and integrated mental healthcare.",
-        "Her practice emphasizes diagnostic clarity, personalized management plans, and interdisciplinary collaboration."
-      ]
-    }
   ]
 }
