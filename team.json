@@ -4,14 +4,16 @@
     "level-1": "Level 1",
     "level-2": "Level 2",
     "psych-meds-101": "Psych Meds 101",
-    "ba": "Behavioral Activation"
+    "ba": "Behavioral Activation (BA)",
+    "bria-staff": "BRIA Staff"
   },
   "tagOrder": [
     "fertility",
     "level-1",
     "level-2",
     "psych-meds-101",
-    "ba"
+    "ba",
+    "bria-staff"
   ],
   "people": [
     {
@@ -36,7 +38,8 @@
       "credentials": "Therapist, BSW, RSW, MEd",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a302e84ca10d49b6b94333d_BRIA_Image_Team_Sari%20Shaicovitch.png",
       "tags": [
-        "fertility"
+        "fertility",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/sari-b-shaicovitch-792b8a52/",
@@ -64,6 +67,27 @@
       ]
     },
     {
+      "id": "ariel-dalfen",
+      "name": "Dr. Ariel Dalfen",
+      "credentials": "Psychiatrist, MD, FRCPC",
+      "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c608f51a1caefdf6fb983_BRIA_Image_Team_Dr.%20Ariel%20Dalfen.png",
+      "tags": [
+        "level-1",
+        "level-2",
+        "psych-meds-101",
+        "ba",
+        "bria-staff"
+      ],
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/",
+        "email": "ariel@betterbria.com"
+      },
+      "bioStatus": "needs-copy",
+      "bio": [
+        "Dr. Ariel Dalfen is CEO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health across all reproductive stages. She previously led Ontario's largest hospital-based perinatal mental health program and authored 'When Baby Brings the Blues'."
+      ]
+    },
+    {
       "id": "bev-young",
       "name": "Dr. Bev Young",
       "credentials": "Psychiatrist, MD, FRCPC",
@@ -72,7 +96,9 @@
         "fertility",
         "level-1",
         "level-2",
-        "psych-meds-101"
+        "psych-meds-101",
+        "ba",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/bev-young-md/",
@@ -80,26 +106,7 @@
       },
       "bioStatus": "needs-copy",
       "bio": [
-        "Psychiatrist with over 25 years in women's mental health and a co-founder of BRIA, specializing in perinatal and perimenopause care."
-      ]
-    },
-    {
-      "id": "ariel-dalfen",
-      "name": "Dr. Ariel Dalfen",
-      "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c608f51a1caefdf6fb983_BRIA_Image_Team_Dr.%20Ariel%20Dalfen.png",
-      "tags": [
-        "level-1",
-        "level-2",
-        "psych-meds-101"
-      ],
-      "links": {
-        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/",
-        "email": "ariel@betterbria.com"
-      },
-      "bioStatus": "needs-copy",
-      "bio": [
-        "Psychiatrist with expertise in perinatal mental health and co-founder of BRIA, specializing in reproductive psychiatry and maternal mental health."
+        "Dr. Bev Young is CMO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health, specializing in perinatal, perimenopause, and reproductive psychiatric care."
       ]
     },
     {
@@ -110,7 +117,8 @@
       "tags": [
         "level-1",
         "level-2",
-        "ba"
+        "ba",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/michelle-amato-rn-mn-ibclc-9632b468/",
@@ -118,7 +126,7 @@
       },
       "bioStatus": "needs-copy",
       "bio": [
-        "Registered Nurse, lactation consultant and Behavioural Activation therapist with more than 25 years in women's healthcare. She leads care coordination at BRIA."
+        "Registered Nurse, lactation consultant, and BRIA Care Coordinator Manager with more than 25 years in women's healthcare. She specializes in Behavioural Activation (BA) therapy across reproductive life stages."
       ]
     },
     {
@@ -128,7 +136,8 @@
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a302e369f19f51c2612cfad_BRIA_Image_Team_Nicole%20Schroeder.png",
       "tags": [
         "level-1",
-        "level-2"
+        "level-2",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/nicole-schroeder-97294812a/",
@@ -146,7 +155,8 @@
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a303163131737008864db85_BRIA_Image_Team_Lauren%20Rose.png",
       "tags": [
         "level-1",
-        "level-2"
+        "level-2",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/lauren-rose-93495a11/",
@@ -164,7 +174,8 @@
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a302cacde3e9c99132b52f4_BRIA_Image_Team_Jess%20White.png",
       "tags": [
         "level-1",
-        "level-2"
+        "level-2",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/jess-white-b812b6b2/",
@@ -186,7 +197,7 @@
       "links": {},
       "bioStatus": "needs-copy",
       "bio": [
-        "Fitness and menopause educator, speaker, and author specializing in perimenopause and menopause wellness."
+        "Fitness and menopause educator, speaker, and author specializing in perimenopause strength training and lifestyle wellness."
       ]
     },
     {
@@ -195,7 +206,8 @@
       "credentials": "Therapist, MSW, RSW",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a302ecb452748488b93331f_BRIA_Image_Team_Sharon%20Lorber.png",
       "tags": [
-        "level-2"
+        "level-2",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/sharonlorber/",
@@ -212,7 +224,8 @@
       "credentials": "NP, RN (EC), Psychotherapist, MSc, BScN, NCMP",
       "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c62ccfd5a98b0ac11377f_BRIA_Image_Team_Sonia%20Taylor.png",
       "tags": [
-        "level-2"
+        "level-2",
+        "bria-staff"
       ],
       "links": {
         "linkedin": "https://www.linkedin.com/in/sonia-taylor-rn-ec-msc-bscn-38b73844/",
@@ -254,6 +267,34 @@
         "Dr. Leslie Buckley is an Addiction Psychiatrist and Chief of the Addictions Division at the Centre for Addiction and Mental Health (CAMH) in Toronto. Leslie completed an Addiction Psychiatry fellowship at Yale University and specializes in providing outpatient treatment for substance use disorders and concurrent disorders.",
         "She also holds a Masters in Public Health from the Harvard T.H. Chan School of Public Health. Areas of interest include understanding pathways to substance use disorders as well as gender differences and the implementation of more accessible and earlier interventions in substance use health.",
         "Dr. Buckley is an Assistant Professor at the University of Toronto, with longstanding involvement in addiction education for medical students and residents."
+      ]
+    },
+    {
+      "id": "lauren-uslinov",
+      "name": "Dr. Lauren Uslinov",
+      "credentials": "Psychiatrist, MD, FRCPC",
+      "image": "",
+      "tags": [
+        "bria-staff"
+      ],
+      "links": {},
+      "bioStatus": "needs-copy",
+      "bio": [
+        "Psychiatrist with extensive experience treating women across the reproductive lifespan in hospital and private clinic settings, with training in DBT, CBT, and Psychodynamic Psychotherapy."
+      ]
+    },
+    {
+      "id": "tara-macleod",
+      "name": "Tara MacLeod",
+      "credentials": "MSN, NP-PHC, RN (EC)",
+      "image": "",
+      "tags": [
+        "bria-staff"
+      ],
+      "links": {},
+      "bioStatus": "needs-copy",
+      "bio": [
+        "Primary Care and Mental Health Nurse Practitioner with over 15 years of experience focusing on ADHD care, women's health, menopause support, and integrated mental health care."
       ]
     }
   ]
