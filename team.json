@@ -20,7 +20,7 @@
       "id": "eileen-mcmahon",
       "name": "Eileen McMahon",
       "credentials": "NP, RN(EC), MN",
-      "image": "",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/5f0808548f16e8f1795c475a20161101.jpg",
       "tags": [
         "fertility"
       ],
@@ -42,19 +42,19 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/sari-b-shaicovitch-792b8a52/",
-        "email": "sari@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/sari-b-shaicovitch-792b8a52/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Social Worker with more than 25 years of clinical experience, focused on infertility, reproductive loss, anxiety and depression."
+        "Sari Shaicovitch is a Registered Social Worker with over 25 years of clinical experience specializing in infertility, reproductive loss, perinatal mental health, anxiety, and depression.",
+        "She provides evidence-based psychotherapeutic support for individuals and couples navigating reproductive life stages and family-building challenges."
       ]
     },
     {
       "id": "rebecca-greenberg",
       "name": "Dr. Rebecca Greenberg",
       "credentials": "RN, PhD, Bioethicist",
-      "image": "",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/e0ed317f7f53b4e4005f5ac7fd4cb0c8.jpg",
       "tags": [
         "fertility"
       ],
@@ -70,7 +70,7 @@
       "id": "ariel-dalfen",
       "name": "Dr. Ariel Dalfen",
       "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c608f51a1caefdf6fb983_BRIA_Image_Team_Dr.%20Ariel%20Dalfen.png",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/74d75ffe1b4005db49fb5ad9a5a50a81.png",
       "tags": [
         "level-1",
         "level-2",
@@ -79,19 +79,20 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/",
-        "email": "ariel@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/ariel-dalfen/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Dr. Ariel Dalfen is CEO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health across all reproductive stages. She previously led Ontario's largest hospital-based perinatal mental health program and authored 'When Baby Brings the Blues'."
+        "Dr. Ariel Dalfen is CEO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience treating women across all reproductive life stages, from fertility through the perinatal period to perimenopause.",
+        "She co-founded BRIA after leading Ontario's largest hospital-based perinatal mental health program for 12 years and establishing Canada's first Perinatal Mental Health Telemedicine Program in 2014.",
+        "Dr. Dalfen is the author of 'When Baby Brings the Blues', serves on the Board of Directors of Fertility Matters Canada, and is an active educator and speaker on women's mental health."
       ]
     },
     {
       "id": "bev-young",
       "name": "Dr. Bev Young",
       "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a2c610cad4a9200f8322378_BRIA_Image_Team_Dr.%20Bev%20Young.png",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/5f0808548f16e8f1795c475a20161101.jpg",
       "tags": [
         "fertility",
         "level-1",
@@ -101,12 +102,13 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/bev-young-md/",
-        "email": "bev@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/bev-young-md/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Dr. Bev Young is CMO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health, specializing in perinatal, perimenopause, and reproductive psychiatric care."
+        "Dr. Bev Young is CMO and Co-Founder of BRIA, and a psychiatrist with over 25 years of experience in women's mental health care along with subspecialty training in adolescent psychiatry.",
+        "Before co-founding BRIA, she developed and led two of Ontario's largest perinatal psychiatry programs at Women's College Hospital and Mount Sinai Hospital.",
+        "A pioneer in virtual care since 2014, Dr. Young specializes in perimenopause and menopause mental health and serves on the Ontario Menopause Quality Standard Advisory Committee."
       ]
     },
     {
@@ -121,12 +123,13 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/michelle-amato-rn-mn-ibclc-9632b468/",
-        "email": "michelle@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/michelle-amato-rn-mn-ibclc-9632b468/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Nurse, lactation consultant, and BRIA Care Coordinator Manager with more than 25 years in women's healthcare. She specializes in Behavioural Activation (BA) therapy across reproductive life stages."
+        "Michelle Amato is a Registered Nurse, International Board-Certified Lactation Consultant, and BRIA Care Coordinator Manager with more than 25 years of experience in women's healthcare.",
+        "Her background includes supporting families through labor and delivery, perinatal loss, postpartum care, and lactation guidance.",
+        "She is an expert Behavioural Activation (BA) therapist and a BRIA Certified Menopause Mental Health Provider specializing in mood and anxiety care."
       ]
     },
     {
@@ -140,31 +143,31 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/nicole-schroeder-97294812a/",
-        "email": "nicole@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/nicole-schroeder-97294812a/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Social Worker with post-graduate training in Emotion Focused Therapy and sex therapy, focused on sexual health in perimenopause."
+        "Nicole Schroeder is a Registered Social Worker with post-graduate training in Emotion-Focused Therapy and sex therapy.",
+        "She specializes in sexual health, relationship dynamics, intimacy, and mental well-being during perimenopause and midlife transitions."
       ]
     },
     {
       "id": "lauren-rose",
       "name": "Lauren Rose",
       "credentials": "Registered Dietitian",
-      "image": "https://cdn.prod.website-files.com/6a29ae17f7615567bbc33c82/6a303163131737008864db85_BRIA_Image_Team_Lauren%20Rose.png",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/6ab14d2dda17953b56829da7dced0596.png",
       "tags": [
         "level-1",
         "level-2",
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/lauren-rose-93495a11/",
-        "email": "lauren@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/lauren-rose-93495a11/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Dietitian with over 30 years in ambulatory care, working in women's health nutrition, mindful eating and behaviour change."
+        "Lauren Rose is a Registered Dietitian with over 30 years of experience in ambulatory clinical care.",
+        "She focuses on women's health nutrition, mindful eating practices, metabolic wellness, and sustainable behavior change across reproductive life stages."
       ]
     },
     {
@@ -178,26 +181,27 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/jess-white-b812b6b2/",
-        "email": "jess@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/jess-white-b812b6b2/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Psychotherapist and sleep specialist with advanced CBT-i training, working on sleep disruption across reproductive life stages."
+        "Jess White is a Registered Psychotherapist and sleep specialist with advanced training in Cognitive Behavioral Therapy for Insomnia (CBT-i).",
+        "She works with women experiencing sleep disruptions, emotional regulation challenges, and anxiety throughout pregnancy, postpartum, and perimenopause."
       ]
     },
     {
       "id": "amanda-thebe",
       "name": "Amanda Thebe",
       "credentials": "Fitness & Menopause Educator, Author",
-      "image": "",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/4c59d3aee1bc67664847a7995c5b4543.jpg",
       "tags": [
         "level-2"
       ],
       "links": {},
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Fitness and menopause educator, speaker, and author specializing in perimenopause strength training and lifestyle wellness."
+        "Amanda Thebe is a fitness and menopause educator, international speaker, and author specializing in perimenopause strength training and wellness.",
+        "She advocates for evidence-based exercise routines, stress management, and lifestyle strategies to support women through midlife hormonal transitions."
       ]
     },
     {
@@ -210,12 +214,12 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/sharonlorber/",
-        "email": "sharon@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/sharonlorber/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Registered Social Worker with more than 20 years supporting clients across reproductive life stages, from adolescence through menopause."
+        "Sharon Lorber is a Registered Social Worker with over 20 years of experience supporting clients through diverse reproductive life stages.",
+        "She offers clinical counseling across life transitions, from young adulthood through pregnancy, postpartum care, and perimenopause."
       ]
     },
     {
@@ -228,19 +232,20 @@
         "bria-staff"
       ],
       "links": {
-        "linkedin": "https://www.linkedin.com/in/sonia-taylor-rn-ec-msc-bscn-38b73844/",
-        "email": "sonia@betterbria.com"
+        "linkedin": "https://www.linkedin.com/in/sonia-taylor-rn-ec-msc-bscn-38b73844/"
       },
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Nurse Practitioner and certified menopause practitioner with over 20 years in women's health, ADHD and mental health care."
+        "Sonia Taylor is an experienced Nurse Practitioner with over 20 years of expertise in women's healthcare, certified as a menopause practitioner through NAMS.",
+        "She has delivered care in Labour & Delivery, Gynecology/Oncology, Neonatal ICU, and Primary Care.",
+        "Her clinical focus includes peri/menopause assessment, ADHD care, and integrated mental health support across the lifespan."
       ]
     },
     {
       "id": "maryna-mammoliti",
       "name": "Dr. Maryna Mammoliti",
       "credentials": "Psychiatrist, MD, FRCPC",
-      "image": "",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/262feb6f01504d9c9c65baac24af5c90.jpg",
       "tags": [
         "level-2"
       ],
@@ -256,7 +261,7 @@
       "id": "leslie-buckley",
       "name": "Dr. Leslie Buckley",
       "credentials": "Psychiatrist, MD, FRCPC, MPH",
-      "image": "",
+      "image": "https://lwfiles.mycourse.app/69a0ed7f6a974c1a8c30897d-public/007e514127786b9f7fd0f3f3bdddd3d3.jpg",
       "tags": [
         "level-1",
         "level-2"
@@ -278,9 +283,11 @@
         "bria-staff"
       ],
       "links": {},
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Psychiatrist with extensive experience treating women across the reproductive lifespan in hospital and private clinic settings, with training in DBT, CBT, and Psychodynamic Psychotherapy."
+        "Dr. Lauren Uslinov is a psychiatrist with extensive experience treating women across the reproductive lifespan in hospital and private clinic settings.",
+        "A fellow of the Royal College of Physicians and Surgeons of Canada and diplomate of the American Board of Psychiatry and Neurology, she has practiced in Minnesota, New York, and Ontario.",
+        "She provides comprehensive psychiatric care with focus on DBT, CBT, and psychodynamic approaches."
       ]
     },
     {
@@ -292,9 +299,11 @@
         "bria-staff"
       ],
       "links": {},
-      "bioStatus": "needs-copy",
+      "bioStatus": "final",
       "bio": [
-        "Primary Care and Mental Health Nurse Practitioner with over 15 years of experience focusing on ADHD care, women's health, menopause support, and integrated mental health care."
+        "Tara MacLeod is a Primary Care and Mental Health Nurse Practitioner with over 15 years of healthcare experience.",
+        "She delivers evidence-based care focusing on ADHD assessment and management, women's health, menopause support, and integrated mental healthcare.",
+        "Her practice emphasizes diagnostic clarity, personalized management plans, and interdisciplinary collaboration."
       ]
     }
   ]
